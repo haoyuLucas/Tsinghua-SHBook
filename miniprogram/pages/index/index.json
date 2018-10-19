@@ -1,0 +1,18 @@
+{
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/userConsole/userConsole",
+        "text": "用户"
+      },
+      {
+        "pagePath": "pages/databaseGuide/databaseGuide",
+        "text": "数据库"
+      }
+    ],
+    "color": "#ffffff",
+    "selectedColor": "#000000",
+    "backgroundColor": "#F6F6F6",
+    "borderStyle": "black"
+  }
+}
