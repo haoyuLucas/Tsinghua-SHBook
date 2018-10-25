@@ -12,7 +12,23 @@
     "backgroundColor": "#F6F6F6",
     "backgroundTextStyle": "light",
     "navigationBarBackgroundColor": "#F6F6F6",
-    "navigationBarTitleText": "Hello World",
+    "navigationBarTitleText": "软工007 Hello World",
     "navigationBarTextStyle": "black"
-  }  
+  },
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/userConsole/userConsole",
+        "text": "用户"
+      },
+      {
+        "pagePath": "pages/databaseGuide/databaseGuide",
+        "text": "数据库"
+      }
+    ],
+    "color": "#ffffff",
+    "selectedColor": "#000000",
+    "backgroundColor": "#F6F6F6",
+    "borderStyle": "black"
+  }
 }

@@ -6,11 +6,14 @@
 		"es6": true,
 		"postcss": true,
 		"minified": true,
-		"newFeature": true
+		"newFeature": true,
+		"nodeModules": false,
+		"uglifyFileName": false
 	},
 	"appid": "wx64bd3cfc861a6519",
 	"projectname": "Tsinghua%20SHBook",
 	"libVersion": "2.2.5",
+	"compileType": "miniprogram",
 	"condition": {
 		"search": {
 			"current": -1,
